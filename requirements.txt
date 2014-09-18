@@ -1,5 +1,7 @@
 django==1.7
 #jinja2
 jinja2=2.7.3
+#pillow
+pillow==2.5.3
 #MySQLDb
 -e git+http://github.com/farcepest/MySQLdb1.git/#egg=MySQLdb1
